@@ -16,8 +16,6 @@
 
 🔭 At Arimo, I built an "Alexa for big data analytics" system which can answer questions & visualize large datasets https://youtu.be/3RQDQApgz-4?t=225 (demo ~ 3:45) using Apache Spark, NLP & statistical graphics best practice & d3.js.
 
-🔭 I’m currently working on anomaly detection for IoT cybersecurity & predictive maintenance of industrial equipments and improving automotive experience e.g. detect & improve distracted driving behavior.
-
 🤾‍ Played with distributed deep learning https://github.com/adatao/tensorspark before Horovod, Ray or tf.distributed comes around. I was not a principal instigator in this project but I provided support & optimization.
 
 🤾‍ I contributed to Golang in the early days, like 10 years ago :). It's an efficient sieve of Eratosthenes using CSP channels that Rob Pike wants to keep as a demo/test use case in the main source code as it's quite an interesting concurrent system https://github.com/aht/gosieve.
@@ -26,13 +24,13 @@
 
 🤾‍ I wrote a toy LISP interpreter that support prefix/postfix & infix op just to annoy LISP people https://github.com/aht/olisp
 
-🤾‍ An esoteric programming gem: (a self-hosting Fractran interpreter in 84 fractions)[https://stackoverflow.com/questions/1749905/code-golf-fractran/1802570#1802570]. This was one of those things for which the space available is really too small to explain everything...
+🤾‍ An esoteric programming gem: [a self-hosting Fractran interpreter in 84 fractions](https://stackoverflow.com/questions/1749905/code-golf-fractran/1802570#1802570). This was one of those things for which the space available is really too small to explain everything...
 
-🌱 I gave talk on ("Visualization as Data and Data as Visualization")[https://youtu.be/3_bTUsqtfHQ] at Strata Hadoop World 2016. As a father of a little girl, I dived into a data-driven story about women stopping coding since the 80s and imagined a world where data & visualizations are easily sharable & infinitely collaborative.
+🌱 I gave talk on ["Visualization as Data and Data as Visualization"](https://youtu.be/3_bTUsqtfHQ) at Strata Hadoop World 2016. As a father of a little girl, I dived into a data-driven story about women stopping coding since the 80s and imagined a world where data & visualizations are easily sharable & infinitely collaborative.
 
-🌱 I gave a talk on "Concurrent programming with Go" circa 2011
+🌱 I gave a talk on ["Concurrent programming with Go"](http://aht.github.io/barcamp2011-gonuts/#1) circa 2011
 
-🌱 I gave a talk on "whatis git" the stupid content tracker http://aht.github.io/whatisgit/#/cover circa 2012
+🌱 I gave a talk on ["whatis git" the stupid content tracker](http://aht.github.io/whatisgit/#/cover )circa 2012
 
 
 
