@@ -6,11 +6,11 @@
 
 🌱 I’m currently learning about real-time data architecture, AI/tech ethics, EV/battery, sustainability
 
-😄 Pronouns: he/him
-
 💬 How to reach me: [@climate_dad](twitter.com/climate_dad)
 
-💬 Ask me about AI/ML/dataviz & distributed system
+💬 Ask me about DL/ML/dataviz & distributed system
+
+😄 Pronouns: he/him
 
 🔭 Recently, I built an automated deep learning (AutoML) system for time-series & IoT data, which can train/tune DL models on ~1B data points, internally used at Panasonic.
 
