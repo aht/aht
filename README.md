@@ -20,9 +20,9 @@
 
 🤾‍ Played with distributed deep learning https://github.com/adatao/tensorspark before Horovod, Ray or tf.distributed comes around. I was not a principal instigator in this project but I provided support & optimization.
 
-🤾‍ I contributed to Golang in the early days, like 10 years ago :). I wrote an efficient sieve of Eratosthenes using CSP channels that Rob Pike wants to keep as a demo/test use case as it's quite an interesting concurrent system https://github.com/aht/gosieve. Wrote a blog post about this which is no longer live and I need to revive.
+🤾‍ I contributed to Golang in the early days, like 10 years ago :). It's an efficient sieve of Eratosthenes using CSP channels that Rob Pike wants to keep as a demo/test use case in the main source code as it's quite an interesting concurrent system https://github.com/aht/gosieve.
 
-🤾‍ Some Python hacking back in the days while I had lots of free time (fork-exec and pipe with I/O redirection)[https://github.com/aht/extproc], (Lazily-evaluated, parallelizable Python pipeline)[https://github.com/aht/stream.py], (Agents and functions that modify Python sequences in-place)[https://github.com/aht/listagent]
+🤾‍ Some Python hacking back in the days while I had lots of free time [https://github.com/aht/extproc](fork-exec and pipe with I/O redirection), [Lazily-evaluated, parallelizable Python pipeline](https://github.com/aht/stream.py), [Agents and functions that modify Python sequences in-place](https://github.com/aht/listagent)
 
 🤾‍ I wrote a toy LISP interpreter that support prefix/postfix & infix op just to annoy LISP people https://github.com/aht/olisp
 
