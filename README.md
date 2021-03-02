@@ -12,7 +12,7 @@
 
 😄 Pronouns: he/him
 
-🔭 Recently, I built an automated deep learning (AutoML) system for time-series & IoT data, which can train/tune DL models on ~1B data points, internally used at Panasonic. Helps data scientists train/tune LSTM, ResNet, Self-Normalizing Networks & Mixture Density Network on data from S3/Parquet with zero sweats :)
+🔭 At Panasonic, I built an automated deep learning (AutoML) system for time-series & IoT data, which can train/tune DL models on ~1B data points. Helps data scientists train/tune LSTM, ResNet, Self-Normalizing Networks & Mixture Density Network on data from S3/Parquet with zero sweats :)
 
 🔭 At Arimo, I built an "Alexa for big data analytics" system which can answer questions & visualize large datasets https://youtu.be/3RQDQApgz-4?t=225 (demo ~ 3:45) using Apache Spark, NLP & statistical graphics best practice & d3.js.
 
