@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-😄 I'm a software engineere & data scientist. I built innovative tools to democratize data science for enterprise at Arimo (a top-ranked data science per FastCompany) and now at Panasonic.
+😄 I'm a software engineere & data scientist. I built innovative tools to democratize data science & machine learning.
 
 💬 Ask me about DL/ML/dataviz & distributed system
 
@@ -14,7 +14,7 @@
 
 🔭 At Panasonic, I built an automated deep learning (AutoML) system for time-series & IoT data, which can train/tune DL models on ~1B data points. Helps data scientists train/tune LSTM, ResNet, Self-Normalizing Networks & Mixture Density Network on data from S3/Parquet with zero sweats :)
 
-🔭 At Arimo, I built an "Alexa for big data analytics" system which can answer questions & visualize large datasets https://youtu.be/3RQDQApgz-4?t=225 (demo ~ 3:45) using Apache Spark, NLP & statistical graphics best practice & d3.js.
+🔭 At Arimo (a top-ranked data science startup per FastCompany), I built an "Alexa for big data analytics" system which can answer questions & visualize large datasets https://youtu.be/3RQDQApgz-4?t=225 (demo ~ 3:45) using Apache Spark, NLP & statistical graphics best practice & d3.js.
 
 🤾‍ Played with distributed deep learning https://github.com/adatao/tensorspark before Horovod, Ray or tf.distributed comes around. I was not a principal instigator in this project but I provided support & optimization.
 
