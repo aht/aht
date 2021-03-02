@@ -1,14 +1,14 @@
 ### Hi there 👋
 
-😄 I'm a engineering & data science leader with 10+ years of experience and 7+ granted patents. I built innovative tools to democratize data science for enterprise at Arimo (a startup named top data science by FastCompany) and at Panasonic.
+😄 I'm a software engineere & data scientist. I built innovative tools to democratize data science for enterprise at Arimo (a top-ranked data science per FastCompany) and now at Panasonic.
+
+💬 Ask me about DL/ML/dataviz & distributed system
 
 🌱 I’m looking to collaborate on SWE/ML/data for social good
 
 🌱 I’m currently learning about real-time data architecture, AI/tech ethics, EV/battery, sustainability
 
 💬 How to reach me: [@climate_dad](twitter.com/climate_dad)
-
-💬 Ask me about DL/ML/dataviz & distributed system
 
 😄 Pronouns: he/him
 
